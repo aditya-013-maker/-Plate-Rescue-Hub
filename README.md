@@ -42,4 +42,4 @@ Donor posts surplus → timer starts → nearby match → receiver accepts
 - CSR impact certificates and reports
 
 ## Author
-</Aditya Gupta>, <Iter Soa University>
+<Aditya Gupta> <Iter Soa University>
